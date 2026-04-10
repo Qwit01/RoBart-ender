@@ -8,7 +8,7 @@
     <Member Name="Start" Datatype="Bool" />
     <Member Name="Stop" Datatype="Bool" />
     <Member Name="Reset" Datatype="Bool" />
-    <Member Name="Emerngcy stop" Datatype="Bool" />
+    <Member Name="Emergency stop" Datatype="Bool" />
   </Section>
 </Sections></Interface>
       <Name>Buttons</Name>
